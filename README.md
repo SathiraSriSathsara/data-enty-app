@@ -24,13 +24,13 @@ A user-friendly Python application designed for data entry operators to quickly 
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/product-entry-csv-app.git
+   git clone hhttps://github.com/SathiraSriSathsara/data-enty-app.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd product-entry-csv-app
+   cd data-enty-app
    ```
 
 3. Install the required dependencies (if any):
