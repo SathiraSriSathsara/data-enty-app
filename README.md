@@ -2,6 +2,9 @@
 
 A user-friendly Python application designed for data entry operators to quickly input product information and save it into a CSV file. This software simplifies the process of entering product data by auto-generating IDs and providing a modern GUI with seamless navigation.
 
+![screenshot](./images/screenshot.png)
+
+
 ## Features
 
 - **Auto-generated ID**: Automatically generates a unique ID for each product based on the previous entry.
